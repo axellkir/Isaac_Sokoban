@@ -1,0 +1,13 @@
+display_name = "Sokoban Environment"
+
+[dependencies]
+"omni.kit.editor" = {}
+"omni.physx" = {}
+"omni.isaac.dynamic_control" = {}
+"omni.isaac.motion_planning" = {}
+"omni.isaac.utils" = {}
+"omni.isaac.manip" = {}
+
+[[python.modules]]
+name = "sokoban_simple.sokoban"
+
